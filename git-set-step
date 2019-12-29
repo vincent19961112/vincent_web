@@ -1,0 +1,6 @@
+echo "# bootstaps-ps" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/vincent19961112/bootstaps-ps.git
+git push -u origin master
